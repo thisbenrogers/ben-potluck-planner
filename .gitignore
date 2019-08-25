@@ -12,6 +12,9 @@
 
 /.netlify
 
+# Demo, cool and good for reference but irrelevant to deploy
+/src/lambda
+
 # misc
 .DS_Store
 .env.local
